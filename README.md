@@ -1,6 +1,6 @@
 # color [![Build Status](https://travis-ci.org/harthur/color.svg?branch=master)](https://travis-ci.org/harthur/color)
 
-> JavaScript library for color conversion and manipulation with support for CSS color strings.
+> JavaScript library for color conversion and manipulation with support for CSS color strings.  Original work done by https://github.com/harthur/color, and forked for use in Chart.js. A special thanks to him! 
 
 ```js
 var color = Color("#7743CE");
@@ -10,15 +10,11 @@ color.alpha(0.5).lighten(0.5);
 console.log(color.hslString());  // "hsla(262, 59%, 81%, 0.5)"
 ```
 
-## Install
-
-```console
-$ npm install color
-```
-
 ## Usage
 
 ```js
+window.Color 
+// or
 var Color = require("color")
 ```
 
