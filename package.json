@@ -2,6 +2,7 @@
   "name": "color",
   "version": "0.8.1",
   "description": "Color conversion and manipulation with CSS string support",
+  "main": "dist/color.js",
   "keywords": [
     "color",
     "colour",
