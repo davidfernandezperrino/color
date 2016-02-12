@@ -1,6 +1,6 @@
 {
   "name": "chartjs-color",
-  "version": "1.0.2",
+  "version": "1.0.21",
   "description": "Color conversion and manipulation with CSS string support",
   "main": "src/color.js",
   "keywords": [
