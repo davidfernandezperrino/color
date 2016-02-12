@@ -1,5 +1,5 @@
 {
-  "name": "color",
+  "name": "chartjs-color",
   "version": "0.8.2",
   "description": "Color conversion and manipulation with CSS string support",
   "main": "src/color.js",
